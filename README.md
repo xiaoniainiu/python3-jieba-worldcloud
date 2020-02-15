@@ -1,11 +1,11 @@
 # python3-jieba-worldcloud
 python3-jieba-worldcloud-词云
 
-# 在mac笔记本上安装python3
+### 在mac笔记本上安装python3
 ```
 brew install python3
 ```
-# pip3的安装过程
+### pip3的安装过程
 ```
 1.首先，进入下面链接，下载需要的Python脚本文件：
 https://pip.readthedocs.io/en/stable/installing/
@@ -25,15 +25,15 @@ alias pip3=/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3
 之后执行命令验证pip3正确安装:
 pip3 -V
 ```
-# 安装wordcloud
+### 安装wordcloud
 ```
 pip3 install WordCloud
 ```
-# 安装 matplotlib
+### 安装 matplotlib
 ```
 sudo pip3 install matplotlib
 ```
-#安装 jieba
+### 安装 jieba
 
 ```
 sudo pip3 install jieba
